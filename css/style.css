@@ -11,10 +11,10 @@
   .header {
     text-align: center;
     text-transform: uppercase;
-    padding: 32px;
+    padding: 33px;
     background-color: #0a0a23;
     color: #fff;
-    border-bottom: 4px solid #fdb347;
+    border: 4px solid #fdb347;
   }
   
   .gallery {
